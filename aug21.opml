@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>aug21</title>
+		<dateCreated>Sun, 02 Jan 2022 16:27:36 GMT</dateCreated>
+		<dateModified>Sun, 02 Jan 2022 16:29:03 GMT</dateModified>
+		<ownerTwitterScreenName>mistersugar</ownerTwitterScreenName>
+		<ownerName>Anton Zuiker</ownerName>
+		<ownerId>http://twitter.com/mistersugar</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>anton@zuiker.com</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="August 2021" created="Thu, 12 Aug 2021 20:10:25 GMT" name="august2021" type="calendarMonth">
+			<outline text="August 31" created="Tue, 31 Aug 2021 14:50:39 GMT" type="calendarDay" name="31">
+				<outline text="Over on the Zuiker Chronicles, I wrote a &lt;a href=&quot;http://zuiker.com/healthy-resume&quot;&gt;post&lt;/a&gt; about my résumé, with a story about the creative take I did in 1994. It was in the style of a nutritional label. Not sure I ever sent it as part of a job application, but I had fun making it." created="Tue, 31 Aug 2021 21:23:27 GMT" type="outline"/>
+				<outline text="In the middle of the night, I had an idea for my writing: I'll select a theme and then write three essays on that theme, one for each of the blogging tools I'm currently using or testing (Textpattern, Micro.blog, Drummer). This is inspired by the New Yorker, which often runs one-page essays on a theme. " created="Tue, 31 Aug 2021 14:50:40 GMT" type="outline"/>
+				</outline>
+			<outline text="August 30" created="Mon, 30 Aug 2021 16:06:19 GMT" type="calendarDay" name="30">
+				<outline text="Found the tamtam design and the &lt;a href=&quot;http://mistersugar.com/2013/04/26/my-new-avatar-is-a-tamtam-from-ambrym&quot;&gt;blog post&lt;/a&gt; that explains it." created="Tue, 31 Aug 2021 01:43:28 GMT" type="outline" inlineImage="http://mistersugar.com/images/216.png"/>
+				<outline text="This is to be a commented out post." created="Tue, 31 Aug 2021 01:48:12 GMT" type="outline" isComment="true"/>
+				<outline text="We are deep into planning a new house, working with our architect friend. We're focused on the front porch tonight, trying to determine it's look, it's function, it's form, and more importantly, how much will it add to the cost of the overall project. " created="Tue, 31 Aug 2021 00:36:00 GMT" type="outline"/>
+				<outline text="The blog has been rebuilt, i.e., I have restored the two missing days (Aug 24 &amp; 25). " created="Mon, 30 Aug 2021 19:01:47 GMT" type="outline"/>
+				<outline text="At the end of the day yesterday, I cleaned out the chicken coop and gave the hens new pine shavings for the egg boxes. Then I walked to the back of the property to watch as the forest darkened, a few splotches of sunshine filtering through the trees onto the forest floor. Malia called from the house, beckoning me to dinner. As I walked back, I startled a fox, which sprinted away." created="Mon, 30 Aug 2021 18:46:29 GMT" type="outline"/>
+				<outline text="It took me 18 months of this pandemic work-from-home routine, but I finally figured out that I am comfortable and cool in a polo shirt, and able to be just as productive and maybe more focused than in a long-sleeve dress shirt. Dressing as a professional as its merits, but I am attuned to my body temperature and know how uncomfortable I am when hot in dress clothes (I'm happiest within I am sweating outside in my soccer gear). No socks at the moment, and that's nice, too." created="Mon, 30 Aug 2021 16:06:20 GMT" type="outline"/>
+				</outline>
+			<outline text="August 29" created="Sun, 29 Aug 2021 16:31:27 GMT" type="calendarDay" name="29">
+				<outline text="Rebuilding the posts from August 24 and 25, which were lost when I hit a bug in Drummer last week." created="Sun, 29 Aug 2021 21:00:04 GMT" type="outline"/>
+				<outline text="Here is the microcast I shared last week, as an enclosure." created="Sun, 29 Aug 2021 21:00:26 GMT" enclosure="https://smol.zuiker.com/uploads/2021/d259501c92.mp3" enclosureType="audio/mpeg" enclosureLength="7424175"/>
+				<outline text="Coincidence" created="Sun, 29 Aug 2021 16:31:28 GMT" type="outline">
+					<outline text="Ken Smith is a Drummer tester, and I see that his &lt;a href=&quot;http://oldschool.scripting.com/KenSmith/2021/08/24/144925.html?title=organizingInformationForUse&quot;&gt;Organizing information for use&lt;/a&gt; points back to his previous writing about the idea of the concordance as a possible holy grail of organizing one's blogging." created="Sun, 29 Aug 2021 16:32:03 GMT"/>
+					<outline text="This made me remember an enjoyable &lt;a href=&quot;http://mistersugar.com/2012/07/16/scripting-a-good-story&quot;&gt;lunch conversation with Dave&lt;/a&gt;  in 2012 (after a bike ride in the North Carolina heat) about ways to index and future safe our writing." created="Sun, 29 Aug 2021 16:34:57 GMT"/>
+					<outline text="Then, in 2013,  Beck Tench and I talked over dinner about ways to &lt;a href=&quot;http://mistersugar.com/2013/01/15/mistersugar-needs-a-new-design&quot;&gt;mine my blog archives&lt;/a&gt;." created="Sun, 29 Aug 2021 16:42:54 GMT">
+						<outline text="What if my blog, after 13 years of writing and referencing and layering, is less about chronology and more about &lt;b&gt;themes&lt;/b&gt;, she suggested. What if mistersugar were to be designed around these &lt;b&gt;connections&lt;/b&gt; and continuations, listing not just the latest posts but also displaying the &lt;b&gt;threads&lt;/b&gt; between multiple items? And something more than the “If you liked this post, you’ll like these” plugins that some blogs use." created="Sun, 29 Aug 2021 16:43:55 GMT"/>
+						</outline>
+					<outline text="Dave and Beck are connected: Beck is an expert user of Roam, and Dave's been advocating for Tools for Thought." created="Sun, 29 Aug 2021 16:44:49 GMT" urltweet="https://mobile.twitter.com/mistersugar/status/1374523681003556864"/>
+					<outline text="All smart people exploring ideas, building tools, inspiring writers and bloggers. " created="Sun, 29 Aug 2021 16:52:21 GMT"/>
+					</outline>
+				</outline>
+			<outline text="August 28" created="Sat, 28 Aug 2021 18:54:05 GMT" type="calendarDay" name="28">
+				<outline text="For family movie night, an encore viewing of the sweet film, CODA. The scene at the end had me in tears, again." created="Sun, 29 Aug 2021 02:16:53 GMT" type="outline"/>
+				<outline text="My Drummer blogging makes a lot of references to Liro Village, Paama Island, the Republic of Vanuatu, and the Peace Corps. Erin and I served as volunteers in the late 1990s and the experience was important to who I am today. Learn more at &lt;a href=&quot;http://antonzuiker.com&quot;&gt;antonzuiker.com&lt;/a&gt;." created="Sat, 28 Aug 2021 18:51:54 GMT" type="outline"/>
+				</outline>
+			<outline text="August 27" created="Fri, 27 Aug 2021 12:05:22 GMT" type="calendarDay" name="27">
+				<outline text="Last thought for the night: I'm amazed at how fluidly I'm writing again because of Drummer. I love my long-running Textpattern blog at &lt;a href=&quot;http://zuiker.com&quot;&gt;zuiker.com&lt;/a&gt;, and I've enjoyed the &lt;a href=&quot;https://micro.blog&quot;&gt;Micro.blog&lt;/a&gt; community (and recent Micro Camp). But Drummer is so easy to use that I'm posting nearly daily, just like my early days as a blogger. That post about running and the post about the river of news were observations from my run and as soon as I was done with dinner I wrote them up here." created="Sat, 28 Aug 2021 02:22:44 GMT" type="outline"/>
+				<outline text="I went for an end-of-the-day run along the gravel roads and onto the trails near University Lake. It was very peaceful and relaxing, and my body felt good moving. As I neared home, I noticed a simple bench beneath a tree in a neighbor's front yard. That reminded me of the bench beneath the mango tree near the Liro Village nakamal, where we sat and talked so many days and nights. Such a simple but powerful tool of conversation and community. I may make one on our land tomorrow." created="Sat, 28 Aug 2021 00:38:52 GMT" type="outline"/>
+				<outline text="I hit a bug in Drummer and lost the contents of the blog file. (Report filed, much learned in the process.) I rebuilt the blog file from a backup (import OPML command throws an error so I copied and pasted). Glad to see the built blog has the most recent posts (which were not in the last files download I had saved), but they are not currently in the outline. Will file another bug report this evening." created="Fri, 27 Aug 2021 12:05:23 GMT" type="outline" image="http://drum.stor.im/drummer.png"/>
+				<outline text="From the river" created="Sat, 28 Aug 2021 00:44:01 GMT" type="outline">
+					<outline text="I love having a &lt;a href=&quot;https://river.zuiker.com&quot;&gt;river of news&lt;/a&gt;, a collection of newsfeeds from blogs I've been reading for so many years. It's especially satisfying when someone who has written in a while posts to their blog, or another posts an update in an ongoing series of updates about an adventure.  " created="Sat, 28 Aug 2021 00:44:08 GMT"/>
+					<outline text="This week, I noticed &lt;b&gt;Ethan Zuckerman&lt;/b&gt; had a &lt;a href=&quot;https://ethanzuckerman.com/2021/08/23/microfinance-and-public-shaming-in-nigeria/&quot;&gt;new post&lt;/a&gt;, about microfinance and public shaming. Ever since I &lt;a href=&quot;http://mistersugar.com/2006/11/08/on-citizen-voices&quot;&gt;met him&lt;/a&gt; at the Berkman Center 15 years ago, I've enjoyed getting a global perspective from him." created="Sat, 28 Aug 2021 00:45:32 GMT"/>
+					<outline text="Also this week was the &lt;a href=&quot;https://justinsomnia.org/2021/08/bisecting-the-bob/&quot;&gt;latest update&lt;/a&gt; from &lt;b&gt;Justin Watt&lt;/b&gt;, who has been chronicling his support of his father's trek along the Continental Divide Trail. Justin was one of the original Tar Heel Bloggers in 2002, and it's awesome that he's still using his blog to write such detailed and interesting posts." created="Sat, 28 Aug 2021 00:50:31 GMT"/>
+					<outline text="Now I'm building a new river of news to reflect the work of my colleagues at the &lt;a href=&quot;https://dcri.org&quot;&gt;Duke Clinical Research Institute&lt;/a&gt;." created="Fri, 27 Aug 2021 16:26:54 GMT"/>
+					</outline>
+				<outline text="Lunch with Erin" created="Fri, 27 Aug 2021 19:51:07 GMT" type="outline">
+					<outline text="A meeting ended early and just as Erin came into the house from her office next door. She suggested we go for lunch, so we hurried over to our favorite Carrboro restaurant, &lt;a href=&quot;https://pizzeriamercatonc.com&quot;&gt;Pizzeria Mercato&lt;/a&gt;. They require proof of vaccination. I realized I'd left my card on my desk; luckily, I had a photo of the card on my phone." created="Fri, 27 Aug 2021 19:52:51 GMT"/>
+					<outline text="The field greens salad and margherita pizza were delicious, as usual." created="Fri, 27 Aug 2021 19:52:57 GMT"/>
+					<outline text="We reviewed the latest designs for our dream house that we hope to start building in the next few months." created="Fri, 27 Aug 2021 19:53:26 GMT"/>
+					</outline>
+				</outline>
+			<outline text="August 25" created="Wed, 25 Aug 2021 12:54:29 GMT" type="calendarDay" name="25">
+				<outline text="I see there is a new podcasting board on the market today, the &lt;a href=&quot;https://tascam.com/us/product/mixcast_4/&quot;&gt;Mixcast 4&lt;/a&gt; from TASCAM. It is similar to the Zoom PodTrak P8 and the RodeCaster Pro. Which means there will be endless hours of review-and-comparison videos ahead." created="Wed, 25 Aug 2021 13:05:22 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=dvl9CDPQ_2Q"/>
+				</outline>
+			<outline text="August 24" created="Tue, 24 Aug 2021 12:57:56 GMT" type="calendarDay" name="24">
+				<outline text="Over on Wan Smol Blog (my Micro.blog), I've posted a microcast of a short conversation with my father about the time he was backstage with the Rolling Stones." created="Tues, 24 Aug 2021 03:41:46 GMT" type="outline"/>
+				<outline text="Here is my &lt;b&gt;microcast&lt;/b&gt; as an enclosure to this post. Drummer should build the podcast appropriately. I hope to see the audio in my &lt;a href=&quot;http://river.zuiker.com&quot;&gt;river of news&lt;/a&gt;." created="Tues, 24 Aug 2021 03:43:48 GMT" type="outline" enclosure="https://smol.zuiker.com/uploads/2021/d259501c92.mp3" enclosureType="audio/mpeg" enclosureLength="7424175"/>
+				<outline text="The Cotton Tote Crisis" created="Tues, 24 Aug 2021 04:42:08 GMT" type="outline">
+					<outline text="Yesterday I was so proud of myself for taking the 2008 North Carolina Science Blogging Conference totes to Weaver Street Market." created="Sun, 29 Aug 2021 20:42:15 GMT"/>
+					<outline text="We gave canvas totes to everyone who attended that conference, and the two ScienceOnline conferences that followed." created="Sun, 29 Aug 2021 20:47:10 GMT"/>
+					<outline text="I have a few brand-new totes from those events. Now that I read &lt;a href=&quot;https://www.nytimes.com/2021/08/24/style/cotton-totes-climate-crisis.html?action=click&amp;module=card&amp;pageType=theWeekenderLink&quot;&gt;this piece&lt;/a&gt; in the NYTimes, I know they're doing no good at the bottom of a bin down in the basement." created="Mon, 30 Aug 2021 18:59:57 GMT"/>
+					</outline>
+				</outline>
+			<outline text="August 23" created="Mon, 23 Aug 2021 14:58:24 GMT" type="calendarDay" name="23">
+				<outline text="Just learned about a slide-show setting in PowerPoint so it doesn't go full screen, a perpetual annoyance when I'm running a meeting in Zoom. See Option 4 in this &lt;a href=&quot;https://www.thinkoutsidetheslide.com/4-options-for-how-to-present-a-powerpoint-slide-show-in-a-zoom-meeting/&quot;&gt;article&lt;/a&gt;. " created="Mon, 23 Aug 2021 14:58:25 GMT" type="outline"/>
+				</outline>
+			<outline text="August 22" created="Sun, 22 Aug 2021 23:11:43 GMT" type="calendarDay" name="22">
+				<outline text="I can't quite land on a title for this blog. Since Drummer is the name of the tool, I'm trying out the word used in Vanuatu for the slit-gong drums made from tree stumps and the Bislama word for news: &lt;b&gt;Tamtam Nius&lt;/b&gt;." created="Mon, 23 Aug 2021 01:45:02 GMT" type="outline"/>
+				<outline text="This is a test: can I use the glossary for an image I expect I'll use often? Will the headers replace with glossary items? Does not seem to work that way. No problem. I'll test the new Drummer image browser instead and grab an image from the Scripting News archive. " created="Sun, 22 Aug 2021 23:25:40 GMT" type="outline" image="http://scripting.com/images/2020/04/12/ukFlagButton.png"/>
+				<outline text="I need another post between the test and the EPL. At first the two posts weren't long enough and the images were throwing off the paragraph spacing (not a bug, just a feature of HTML). " created="Sun, 22 Aug 2021 23:28:17 GMT" type="outline"/>
+				<outline text="Didn't get to watch much #EPL today. Instead went for a family brunch, used the chainsaw to bring down a couple of invasive princess trees, and fixed the latch on one of the gates to the fence that keeps the dog in the back yard. " created="Sun, 22 Aug 2021 23:11:44 GMT" type="outline" image="http://test.stor.im/img/football125.png"/>
+				<outline text="Links" created="Mon, 23 Aug 2021 00:14:03 GMT" type="outline">
+					<outline text="I use &lt;a href=&quot;http://this.how/radio3/&quot;&gt;Radio3&lt;/a&gt; to save links to interesting articles and sites and places on the web." created="Mon, 23 Aug 2021 00:14:08 GMT"/>
+					<outline text="See my linkblog &lt;a href=&quot;http://radio3.io/users/mistersugar/&quot;&gt;here&lt;/a&gt;." created="Mon, 23 Aug 2021 00:14:32 GMT">
+						<outline text="The latest link is to the Wikipedia entry for the Centers for Disease Control and Prevention." created="Mon, 23 Aug 2021 00:19:44 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="August 21" created="Sat, 21 Aug 2021 18:37:50 GMT" type="calendarDay" name="21">
+				<outline text="More glossary items: I am proud to have served as a $PCV in $Van.  " created="Sun, 22 Aug 2021 03:42:31 GMT" type="outline"/>
+				<outline text="Testing the &lt;a href=&quot;http://drummer.scripting.com/mistersugar/glossary.opml&quot;&gt;glossary&lt;/a&gt;: &quot;ZChronicles&quot; and &quot;microblog&quot; - it now works." created="Sat, 21 Aug 2021 18:56:26 GMT" type="outline"/>
+				<outline text="I watched the first half of the Liverpool-Burnley match this morning before I was on my road trip. SiriusXM had the Leeds-Everton match on for my drive to Southfield, and the Brighton-Watford match for return." created="Sat, 21 Aug 2021 18:49:32 GMT" type="outline"/>
+				<outline text="Act V" created="Sat, 21 Aug 2021 18:37:51 GMT" type="outline">
+					<outline text="It's been a while since I've seen my mother. She lives in Wilmington, North Carolina, not far geographically but our understanding of the COVID-19 pandemic is even more separated and since she won't get the vaccination, I've not been comfortable traveling her way. But we had a great conversation the other day (about trees), and we decided to meet halfway at the Panera Bread in Smithfield where we could sit outside and talk over lunch. It was nice. We steered clear of pandemic talk and just chatted about life.  " created="Sat, 21 Aug 2021 18:39:54 GMT"/>
+					<outline text="On the drive back, I listened to This American Life on WUNC, a repeat of a 2002 episode called &lt;a href=&quot;https://www.thisamericanlife.org/218/act-v&quot;&gt;Act V&lt;/a&gt; about a group of inmates who stage part of Hamlet. Really good episode. " created="Sat, 21 Aug 2021 18:39:49 GMT"/>
+					<outline text="Mom and I had talked about our family not having a television when I was a child, and how that had given me the space to fall in love with reading. " created="Sat, 21 Aug 2021 18:46:06 GMT"/>
+					<outline text="As it happens, I've just started reading &lt;a href=&quot;https://en.wikipedia.org/wiki/Hamnet_(novel)&quot;&gt;Hamnet&lt;/a&gt;, a novel by Maggie O'Farrell.  " created="Sat, 21 Aug 2021 18:47:04 GMT"/>
+					</outline>
+				</outline>
+			<outline text="August 20" created="Fri, 20 Aug 2021 16:41:04 GMT" type="calendarDay" name="20">
+				<outline text="Erin and I watched the new episode of &lt;a href=&quot;https://en.wikipedia.org/wiki/Ted_Lasso&quot;&gt;Ted Lasso&lt;/a&gt;, and we laughed at the many rom-com references. I love this show. And tomorrow morning I'll be up early to watch EPL matches." created="Sat, 21 Aug 2021 02:08:29 GMT" type="outline"/>
+				<outline text="It's quite easy to change the header picture on this Drummer blog. Simple as editing the OPML headers and inserting an image URL for the urlHeaderImage. The header at the moment is a photo snapped on St. Croix last month." created="Fri, 20 Aug 2021 16:51:40 GMT" type="outline"/>
+				<outline text="The red Gerbera daisy I picked in the garden last weekend and put in a glass vase on my office is still looking fresh and beautiful. Maybe a picture later." created="Fri, 20 Aug 2021 16:41:05 GMT" type="outline"/>
+				</outline>
+			<outline text="August 17" created="Wed, 18 Aug 2021 01:35:33 GMT" type="calendarDay" name="17">
+				<outline text="I want to give Drummer a real run for writing a long essay." created="Wed, 18 Aug 2021 01:37:45 GMT" type="outline"/>
+				<outline text="Over at Wan Smol Blog, I post photos of turtles, including the turtle I discovered near the hickory tree that toppled over yesterday." created="Wed, 18 Aug 2021 01:35:34 GMT" type="outline"/>
+				</outline>
+			<outline text="August 16" created="Mon, 16 Aug 2021 16:52:53 GMT" type="calendarDay" name="16">
+				<outline text="Trying something new. Ending my work day at 5, calling my mother to chat, and then going for a run." created="Mon, 16 Aug 2021 21:19:23 GMT" type="outline"/>
+				<outline text="Silent wings" created="Mon, 16 Aug 2021 16:52:54 GMT" type="outline">
+					<outline text="While my coffee brewed this morning in the stovetop percolator, I stepped outside to listen to the world. As I walked into the woods, a great horned owl flapped away, landed on a tree, and watched me." created="Mon, 16 Aug 2021 16:52:59 GMT"/>
+					</outline>
+				</outline>
+			<outline text="August 15" created="Sun, 15 Aug 2021 14:59:08 GMT" type="calendarDay" name="15">
+				<outline text="I drove to Pittsboro for coffee, and I wrote a blog post." created="Sun, 15 Aug 2021 14:59:09 GMT" type="link" url="http://zuiker.com/ringing-in-25"/>
+				</outline>
+			<outline text="August 14" created="Sat, 14 Aug 2021 16:33:10 GMT" type="calendarDay" name="14">
+				<outline text="For 20 years I've taught people to add an &lt;b&gt;About page&lt;/b&gt; as soon as they create a blog. Wondering what the best way to do so in Drummer. For now, I'll point to &lt;a href=&quot;https://smol.zuiker.com/about/&quot;&gt;Wan Smol Blog&lt;/a&gt;." created="Sun, 15 Aug 2021 01:39:59 GMT" type="outline"/>
+				<outline text="The tree expert who walked the land with me this week declared our forest to be in excellent condition. He also pointed out the invasive trees, shrubs, and vines that should be cut and treated, including  princess tree, &lt;a href=&quot;https://projects.ncsu.edu/goingnative/howto/mapping/invexse/treeofhe.html&quot;&gt;tree-of-heaven&lt;/a&gt;, &lt;a href=&quot;https://projects.ncsu.edu/goingnative/howto/mapping/invexse/autumnol.html&quot;&gt;autumn olive&lt;/a&gt;, leatherleaf clematis, a mulberry tree, and an aggressive vine that I cut way back last month but has already rocketed back. " created="Sat, 14 Aug 2021 19:34:46 GMT" type="outline"/>
+				<outline text="Premier League football is back. Fun. " created="Sat, 14 Aug 2021 16:33:11 GMT" type="tweet" tweetId="1426719902950436864" tweetUserName="mistersugar"/>
+				<outline text="Five years ago, in Paris, Erin and I met &lt;b&gt;Jim Haynes&lt;/b&gt;." created="Sun, 15 Aug 2021 01:45:18 GMT" type="outline" urltweet="https://twitter.com/mistersugar/status/1354537929465618432"/>
+				</outline>
+			<outline text="August 13" created="Fri, 13 Aug 2021 14:49:01 GMT" type="calendarDay" name="13">
+				<outline text="Header image changed to the Supreme Court building (RBG laying in state), and description changed to 'yumi stop storian' which is Bislama for 'let's talk'." created="Sat, 14 Aug 2021 00:50:35 GMT" type="outline"/>
+				<outline text="Got the upload icon to show in the iconbar, but only after a call from a friendly developer asking me was it really not there? Geez, expanded the window and it was there." created="Fri, 13 Aug 2021 21:35:42 GMT" type="outline"/>
+				<outline text="Our friend, an architect, sent an update to the plans he's drawn for the house we want to build in the forest out back. Exciting. Erin and I walked in the forest yesterday to see which trees will feature in the landscape around the house." created="Fri, 13 Aug 2021 14:50:06 GMT" type="outline"/>
+				<outline text="Mercato pizza" created="Sat, 14 Aug 2021 00:45:28 GMT" type="outline">
+					<outline text="Anna returns to UNC Greensboro tomorrow to start her junior year. She chose Mercato for our family dinner, so we went and got a seat at the bar looking into the kitchen. Gabe Barker was there in front of us, making the pizzas." created="Sat, 14 Aug 2021 00:45:37 GMT" image="http://drum.stor.im/pizza.png"/>
+					<outline text="It was a delicious meal. " created="Sat, 14 Aug 2021 00:46:45 GMT"/>
+					</outline>
+				<outline text="Micro Camp" created="Fri, 13 Aug 2021 18:14:35 GMT" type="outline">
+					<outline text="I've been a user of &lt;a href=&quot;https://micro.blog&quot;&gt;Micro.blog&lt;/a&gt; since the beginning. There's a users conference today and tomorrow." created="Fri, 13 Aug 2021 18:14:40 GMT"/>
+					<outline text="My micro blog is at &lt;a href=&quot;https://smol.zuiker.com&quot;&gt;smol.zuiker.com&lt;/a&gt; and my main blog - 21 years running - is at &lt;a href=&quot;http://zuiker.com&quot;&gt;zuiker.com&lt;/a&gt;" created="Fri, 13 Aug 2021 18:15:50 GMT"/>
+					<outline text="Of course, now that I can use Drummer, I'm going to have to figure out how and what to blog at these various places of mine on the web." created="Fri, 13 Aug 2021 18:16:28 GMT"/>
+					</outline>
+				<outline text="Another day" created="Fri, 13 Aug 2021 14:49:02 GMT" type="outline">
+					<outline text="It's a new day, and this is a new blog post. I hit the + sign to create this. Easiest and best way, says Dave." created="Fri, 13 Aug 2021 14:49:07 GMT"/>
+					</outline>
+				</outline>
+			<outline text="August 12" created="Thu, 12 Aug 2021 20:10:26 GMT" type="calendarDay" name="12">
+				<outline text="Oliver's soccer practice was canceled, so I may get an hour to run on my own -- but for the high heat index. Hmm." created="Thu, 12 Aug 2021 20:39:13 GMT" type="outline"/>
+				<outline text="What happens if I hit enter and type. Will this be a post?" created="Thu, 12 Aug 2021 20:40:30 GMT"/>
+				<outline text="&lt;b&gt;This is awesome.&lt;/b&gt; Drummer is smooth, and feels great to use. (Much smoother than 1999, and I still use that and like it.) Actually, after reading Dave's blog daily for more than 20 years, it's a bit eerie to be able to so easily blog like Dave. I feel  like an interloper. But I was invited in, and I am liking this." created="Fri, 13 Aug 2021 01:50:40 GMT" type="outline"/>
+				<outline text="Sprat Hall" created="Thu, 12 Aug 2021 22:55:03 GMT" type="outline">
+					<outline text="The family vacation on &lt;b&gt;St. Croix&lt;/b&gt; came to a close yesterday, the afternoon flight giving time in the morning for me drive into Frederiksted to conduct an interview at Polly’s at the Pier (I’m working on an alumni profile for Duke Magazine). Then I returned for a last 30 minutes to string up my &lt;i&gt;hammock&lt;/i&gt; under the sea grape trees at Sprat Hall Beach. It is my favorite place, and I savored the moment." created="Thu, 12 Aug 2021 22:54:01 GMT" image="http://park.zuiker.com/hammockSticker.png"/>
+					<outline text="We packed up the car, shuttled the family and my father to Rainbow Beach, ate lunch (mahi tacos with the spicy aioli), shuttled dad back to the house, and then headed to the airport." created="Thu, 12 Aug 2021 22:55:26 GMT"/>
+					</outline>
+				<outline text="Watch for turtles" created="Thu, 12 Aug 2021 20:51:40 GMT" type="outline">
+					<outline text="I'm fortunate to live in 9 acres of forest just outside of Chapel Hill. When it rains, we see box turtles, and when I see a turtle, I take a photo. " created="Fri, 13 Aug 2021 00:00:57 GMT"/>
+					<outline text="Eastern box turtle" created="Thu, 12 Aug 2021 20:51:52 GMT" inlineImage="https://smol.zuiker.com/uploads/2021/61ecdb76e4.jpg"/>
+					<outline text="See more photos &lt;a href=&quot;https://smol.zuiker.com/categories/turtles/&quot;&gt;here&lt;/a&gt;." created="Fri, 13 Aug 2021 00:00:38 GMT"/>
+					</outline>
+				<outline text="Olsem wanem, world" created="Thu, 12 Aug 2021 20:10:27 GMT" type="outline">
+					<outline text="Hello, and welcome to a Drummer blog by Anton Zuiker." created="Thu, 12 Aug 2021 20:10:53 GMT"/>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
